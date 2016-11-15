@@ -1,0 +1,49 @@
+#u3375,#u3373,#u3374
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #7F7F7F;
+	position: relative;
+}
+
+#u3404-3
+{
+	line-height: 14px;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u3378
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	position: relative;
+}
+
+#u4177-4,#u4178-4,#u4179-4,#u4180-4,#u4181-4
+{
+	text-align: center;
+	line-height: 19px;
+	letter-spacing: 3px;
+	font-size: 16px;
+	color: #88A2A3;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+.AccordionPanelTab /* accordion */
+{
+	cursor: pointer;
+}
+
+#u3372,#accordionu3376,#u3377,#u3316
+{
+	position: relative;
+}
+

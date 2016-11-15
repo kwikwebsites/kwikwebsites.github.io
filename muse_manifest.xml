@@ -1,0 +1,171 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4199382916"/>
+    <file name="master_a-master.css" crc="105339734" ref="jki-group--design---build--residential-projects:jki-group--design---build--commercial-projects--greenleaf-restaurant:jki-group--design---build---how-we-work:jki-group--design---build--commercial-projects:jki-group--design---build--contact-us:jki-group--design---build--residential-projects--montgomery-road:jki-group--design---build--residential-projects--grove-park-gardens:jki-group--design---build---about-us:jki-group--design---build--residential-projects--hyde-park:jki-group--design---build--commercial-projects--charlie:jki-group--design---build--commercial-projects--sugar-karaoke-club:index"/>
+    <file name="jki-group--design---build--residential-projects.css" crc="4074401289" ref="jki-group--design---build--residential-projects"/>
+    <file name="iefonts_jki-group--design---build--residential-projects.css" crc="379973040" ref="jki-group--design---build--residential-projects"/>
+    <file name="jki-group--design---build--commercial-projects--greenleaf-restaurant.css" crc="4288950014" ref="jki-group--design---build--commercial-projects--greenleaf-restaurant"/>
+    <file name="iefonts_jki-group--design---build--commercial-projects--greenleaf-restaurant.css" crc="3949302782" ref="jki-group--design---build--commercial-projects--greenleaf-restaurant"/>
+    <file name="jki-group--design---build---how-we-work.css" crc="397431091" ref="jki-group--design---build---how-we-work"/>
+    <file name="iefonts_jki-group--design---build---how-we-work.css" crc="3776067195" ref="jki-group--design---build---how-we-work"/>
+    <file name="jki-group--design---build--commercial-projects.css" crc="238558274" ref="jki-group--design---build--commercial-projects"/>
+    <file name="iefonts_jki-group--design---build--commercial-projects.css" crc="387203511" ref="jki-group--design---build--commercial-projects"/>
+    <file name="jki-group--design---build--contact-us.css" crc="85270059" ref="jki-group--design---build--contact-us"/>
+    <file name="iefonts_jki-group--design---build--contact-us.css" crc="172674130" ref="jki-group--design---build--contact-us"/>
+    <file name="jki-group--design---build--residential-projects--montgomery-road.css" crc="348286370" ref="jki-group--design---build--residential-projects--montgomery-road"/>
+    <file name="iefonts_jki-group--design---build--residential-projects--montgomery-road.css" crc="3958111568" ref="jki-group--design---build--residential-projects--montgomery-road"/>
+    <file name="jki-group--design---build--residential-projects--grove-park-gardens.css" crc="85291550" ref="jki-group--design---build--residential-projects--grove-park-gardens"/>
+    <file name="iefonts_jki-group--design---build--residential-projects--grove-park-gardens.css" crc="264650263" ref="jki-group--design---build--residential-projects--grove-park-gardens"/>
+    <file name="jki-group--design---build---about-us.css" crc="4111492240" ref="jki-group--design---build---about-us"/>
+    <file name="iefonts_jki-group--design---build---about-us.css" crc="227522801" ref="jki-group--design---build---about-us"/>
+    <file name="jki-group--design---build--residential-projects--hyde-park.css" crc="471417452" ref="jki-group--design---build--residential-projects--hyde-park"/>
+    <file name="iefonts_jki-group--design---build--residential-projects--hyde-park.css" crc="4091681487" ref="jki-group--design---build--residential-projects--hyde-park"/>
+    <file name="jki-group--design---build--commercial-projects--charlie.css" crc="225245939" ref="jki-group--design---build--commercial-projects--charlie"/>
+    <file name="iefonts_jki-group--design---build--commercial-projects--charlie.css" crc="494224220" ref="jki-group--design---build--commercial-projects--charlie"/>
+    <file name="jki-group--design---build--commercial-projects--sugar-karaoke-club.css" crc="3832502128" ref="jki-group--design---build--commercial-projects--sugar-karaoke-club"/>
+    <file name="iefonts_jki-group--design---build--commercial-projects--sugar-karaoke-club.css" crc="441447496" ref="jki-group--design---build--commercial-projects--sugar-karaoke-club"/>
+    <file name="index.css" crc="154299667" ref="index"/>
+    <file name="iefonts_index.css" crc="3865613960" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>jkigroup-designandbuild-commercialprojects:phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant:phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club:phone>jkigroup-designandbuild-commercialprojects-charlies:phone>jkigroup-designandbuild-residential-projects:phone>jkigroup-designandbuild-residentialprojects-groveparkgardens:phone>jkigroup-designandbuild-residentialprojects-montgomery-road:phone>jkigroup-designandbuild-residentialprojects-whitton-road:phone>jkigroup-designandbuild-about-us:phone>jkigroup-designandbuild-how-we-work:phone>jkigroup-designandbuild-contact-us:index:jki-group--design---build--commercial-projects:jki-group--design---build--residential-projects:jki-group--design---build---about-us:jki-group--design---build--contact-us:jki-group--design---build--residential-projects--grove-park-gardens:jki-group--design---build--residential-projects--montgomery-road:jki-group--design---build--residential-projects--hyde-park:jki-group--design---build--commercial-projects--sugar-karaoke-club:jki-group--design---build--commercial-projects--greenleaf-restaurant:jki-group--design---build--commercial-projects--charlie:jki-group--design---build---how-we-work"/>
+    <file name="museutils.js" crc="3880880085" ref="phone>index:phone>jkigroup-designandbuild-commercialprojects:phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant:phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club:phone>jkigroup-designandbuild-commercialprojects-charlies:phone>jkigroup-designandbuild-residential-projects:phone>jkigroup-designandbuild-residentialprojects-groveparkgardens:phone>jkigroup-designandbuild-residentialprojects-montgomery-road:phone>jkigroup-designandbuild-residentialprojects-whitton-road:phone>jkigroup-designandbuild-about-us:phone>jkigroup-designandbuild-how-we-work:phone>jkigroup-designandbuild-contact-us:index:jki-group--design---build--commercial-projects:jki-group--design---build--residential-projects:jki-group--design---build---about-us:jki-group--design---build--contact-us:jki-group--design---build--residential-projects--grove-park-gardens:jki-group--design---build--residential-projects--montgomery-road:jki-group--design---build--residential-projects--hyde-park:jki-group--design---build--commercial-projects--sugar-karaoke-club:jki-group--design---build--commercial-projects--greenleaf-restaurant:jki-group--design---build--commercial-projects--charlie:jki-group--design---build---how-we-work"/>
+    <file name="webpro.js" crc="33264525" ref="phone>index:phone>jkigroup-designandbuild-commercialprojects:phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant:phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club:phone>jkigroup-designandbuild-commercialprojects-charlies:phone>jkigroup-designandbuild-residential-projects:phone>jkigroup-designandbuild-residentialprojects-groveparkgardens:phone>jkigroup-designandbuild-residentialprojects-montgomery-road:phone>jkigroup-designandbuild-residentialprojects-whitton-road:phone>jkigroup-designandbuild-about-us:phone>jkigroup-designandbuild-how-we-work:phone>jkigroup-designandbuild-contact-us:jki-group--design---build--contact-us"/>
+    <file name="musewpdisclosure.js" crc="250538392" ref="phone>index:phone>jkigroup-designandbuild-commercialprojects:phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant:phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club:phone>jkigroup-designandbuild-commercialprojects-charlies:phone>jkigroup-designandbuild-residential-projects:phone>jkigroup-designandbuild-residentialprojects-groveparkgardens:phone>jkigroup-designandbuild-residentialprojects-montgomery-road:phone>jkigroup-designandbuild-residentialprojects-whitton-road:phone>jkigroup-designandbuild-about-us:phone>jkigroup-designandbuild-how-we-work:phone>jkigroup-designandbuild-contact-us"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>index:phone>jkigroup-designandbuild-commercialprojects:phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant:phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club:phone>jkigroup-designandbuild-commercialprojects-charlies:phone>jkigroup-designandbuild-residential-projects:phone>jkigroup-designandbuild-residentialprojects-groveparkgardens:phone>jkigroup-designandbuild-residentialprojects-montgomery-road:phone>jkigroup-designandbuild-residentialprojects-whitton-road:phone>jkigroup-designandbuild-about-us:phone>jkigroup-designandbuild-how-we-work:phone>jkigroup-designandbuild-contact-us:index:jki-group--design---build--commercial-projects:jki-group--design---build--residential-projects:jki-group--design---build---about-us:jki-group--design---build--contact-us:jki-group--design---build--residential-projects--grove-park-gardens:jki-group--design---build--residential-projects--montgomery-road:jki-group--design---build--residential-projects--hyde-park:jki-group--design---build--commercial-projects--sugar-karaoke-club:jki-group--design---build--commercial-projects--greenleaf-restaurant:jki-group--design---build--commercial-projects--charlie:jki-group--design---build---how-we-work"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>jkigroup-designandbuild-commercialprojects:phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant:phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club:phone>jkigroup-designandbuild-commercialprojects-charlies:phone>jkigroup-designandbuild-residential-projects:phone>jkigroup-designandbuild-residentialprojects-groveparkgardens:phone>jkigroup-designandbuild-residentialprojects-montgomery-road:phone>jkigroup-designandbuild-residentialprojects-whitton-road:phone>jkigroup-designandbuild-about-us:phone>jkigroup-designandbuild-how-we-work:phone>jkigroup-designandbuild-contact-us"/>
+    <file name="pie.js" crc="4147615982" ref="phone>jkigroup-designandbuild-how-we-work:jki-group--design---build---about-us:jki-group--design---build--contact-us:jki-group--design---build---how-we-work"/>
+    <file name="form_check.php" crc="39676790" ref="phone>jkigroup-designandbuild-contact-us:jki-group--design---build--contact-us"/>
+    <file name="form_throttle.php" crc="4202036461" ref="phone>jkigroup-designandbuild-contact-us:jki-group--design---build--contact-us"/>
+    <file name="form-u3966.php" crc="127368624" ref="phone>jkigroup-designandbuild-contact-us"/>
+    <file name="museredirect.js" crc="299715755" ref="index"/>
+    <file name="form-u2937.php" crc="4146991687" ref="jki-group--design---build--contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="final logo_outlines.png" crc="122078694" ref="phone>index:phone>jkigroup-designandbuild-commercialprojects:phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant:phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club:phone>jkigroup-designandbuild-commercialprojects-charlies:phone>jkigroup-designandbuild-residential-projects:phone>jkigroup-designandbuild-residentialprojects-groveparkgardens:phone>jkigroup-designandbuild-residentialprojects-montgomery-road:phone>jkigroup-designandbuild-residentialprojects-whitton-road:phone>jkigroup-designandbuild-about-us:phone>jkigroup-designandbuild-how-we-work:phone>jkigroup-designandbuild-contact-us:index:jki-group--design---build--commercial-projects:jki-group--design---build--residential-projects:jki-group--design---build---about-us:jki-group--design---build--contact-us:jki-group--design---build--residential-projects--grove-park-gardens:jki-group--design---build--residential-projects--montgomery-road:jki-group--design---build--residential-projects--hyde-park:jki-group--design---build--commercial-projects--sugar-karaoke-club:jki-group--design---build--commercial-projects--greenleaf-restaurant:jki-group--design---build--commercial-projects--charlie:jki-group--design---build---how-we-work"/>
+    <file name="quote mark_white.png" crc="3895156867" ref="phone>index:index"/>
+    <file name="jki group_landing page graphic651x434.jpg" crc="3914547903" ref="phone>index"/>
+    <file name="cbs-1544521x341.jpg" crc="4127367209" ref="phone>index"/>
+    <file name="10409467204_730cdff314_b405x271.jpg" crc="473828070" ref="phone>index"/>
+    <file name="cbs-1575.jpg" crc="3900635983" ref="phone>jkigroup-designandbuild-commercialprojects:jki-group--design---build--commercial-projects"/>
+    <file name="img_2739.jpg" crc="3803601440" ref="phone>jkigroup-designandbuild-commercialprojects:jki-group--design---build--commercial-projects"/>
+    <file name="tn_photo 20.jpg" crc="4262624327" ref="phone>jkigroup-designandbuild-commercialprojects:jki-group--design---build--commercial-projects"/>
+    <file name="img_2741389x261.jpg" crc="94558111" ref="phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant"/>
+    <file name="img_2735388x260.jpg" crc="3847287388" ref="phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant"/>
+    <file name="img_2736463x310.jpg" crc="263980711" ref="phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant"/>
+    <file name="tn_photo 21389x259.jpg" crc="8661702" ref="phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club"/>
+    <file name="tn_photo 29393x262.jpg" crc="415689216" ref="phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club"/>
+    <file name="tn_photo 26393x262.jpg" crc="4185088962" ref="phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club"/>
+    <file name="cbs-1544423x277.jpg" crc="3840275708" ref="phone>jkigroup-designandbuild-commercialprojects-charlies"/>
+    <file name="cbs-1597386x356.jpg" crc="459758080" ref="phone>jkigroup-designandbuild-commercialprojects-charlies"/>
+    <file name="cbs-1487414x259.jpg" crc="3928376203" ref="phone>jkigroup-designandbuild-commercialprojects-charlies"/>
+    <file name="hd queensway-13-edit414x276.jpg" crc="3847641244" ref="phone>jkigroup-designandbuild-residential-projects"/>
+    <file name="img_9312_edited-1478x319.jpg" crc="501871645" ref="phone>jkigroup-designandbuild-residential-projects"/>
+    <file name="img_8510_edited-1711x469.jpg" crc="456109952" ref="phone>jkigroup-designandbuild-residential-projects"/>
+    <file name="img_9312_edited-1428x285.jpg" crc="45043701" ref="phone>jkigroup-designandbuild-residentialprojects-groveparkgardens"/>
+    <file name="img_9259_edited-1390x261.jpg" crc="310965307" ref="phone>jkigroup-designandbuild-residentialprojects-groveparkgardens"/>
+    <file name="img_9253_edited-1384x256.jpg" crc="4253853466" ref="phone>jkigroup-designandbuild-residentialprojects-groveparkgardens"/>
+    <file name="img_8510_edited-1604x399.jpg" crc="410576624" ref="phone>jkigroup-designandbuild-residentialprojects-montgomery-road"/>
+    <file name="img_8518_edited-1.jpg" crc="511299205" ref="phone>jkigroup-designandbuild-residentialprojects-montgomery-road:jki-group--design---build--residential-projects--montgomery-road"/>
+    <file name="img_8510_edited-1726x480.jpg" crc="474231225" ref="phone>jkigroup-designandbuild-residentialprojects-montgomery-road"/>
+    <file name="hd queensway-36-edit391x258.jpg" crc="4095950203" ref="phone>jkigroup-designandbuild-residentialprojects-whitton-road"/>
+    <file name="hd queensway-41184x277.jpg" crc="178335842" ref="phone>jkigroup-designandbuild-residentialprojects-whitton-road"/>
+    <file name="hd queensway-27204x306.jpg" crc="4003356784" ref="phone>jkigroup-designandbuild-residentialprojects-whitton-road"/>
+    <file name="hd queensway-42192x288.jpg" crc="3899922430" ref="phone>jkigroup-designandbuild-residentialprojects-whitton-road"/>
+    <file name="hd queensway-25386x580.jpg" crc="298559897" ref="phone>jkigroup-designandbuild-residentialprojects-whitton-road"/>
+    <file name="u3997-17.png" crc="85270990" ref="phone>jkigroup-designandbuild-contact-us"/>
+    <file name="u3997-17-r.png" crc="3123163" ref="phone>jkigroup-designandbuild-contact-us"/>
+    <file name="u3997-17-m.png" crc="4023663629" ref="phone>jkigroup-designandbuild-contact-us"/>
+    <file name="u3997-17-fs.png" crc="3851283784" ref="phone>jkigroup-designandbuild-contact-us"/>
+    <file name="jki-group--design---build-favicon.ico" crc="185624560" ref="index"/>
+    <file name="jki group_landing page graphic.jpg" crc="4002102033" ref="index"/>
+    <file name="10409467204_730cdff314_b399x266.jpg" crc="340587944" ref="index"/>
+    <file name="cbs-1544420x276.jpg" crc="446358366" ref="index"/>
+    <file name="jki-group--design---build--commercial-projects-favicon.ico" crc="185624560" ref="jki-group--design---build--commercial-projects"/>
+    <file name="tn_photo 21.jpg" crc="3867348616" ref="jki-group--design---build--commercial-projects:jki-group--design---build--commercial-projects--sugar-karaoke-club"/>
+    <file name="jki-group--design---build--residential-projects-favicon.ico" crc="185624560" ref="jki-group--design---build--residential-projects"/>
+    <file name="10409467204_730cdff314_b.jpg" crc="4081349217" ref="jki-group--design---build--residential-projects"/>
+    <file name="img_9312_edited-1.jpg" crc="4085817330" ref="jki-group--design---build--residential-projects:jki-group--design---build--residential-projects--grove-park-gardens"/>
+    <file name="hd queensway-13-edit.jpg" crc="480515276" ref="jki-group--design---build--residential-projects"/>
+    <file name="img_8510_edited-1.jpg" crc="4021030400" ref="jki-group--design---build--residential-projects:jki-group--design---build--residential-projects--montgomery-road"/>
+    <file name="jki-group--design---build---about-us-favicon.ico" crc="185624560" ref="jki-group--design---build---about-us"/>
+    <file name="jki-group--design---build--contact-us-favicon.ico" crc="4061180953" ref="jki-group--design---build--contact-us"/>
+    <file name="02a158ex-u2932.jpg" crc="274769285" ref="jki-group--design---build--contact-us"/>
+    <file name="u2947-17.png" crc="4085076132" ref="jki-group--design---build--contact-us"/>
+    <file name="u2947-17-r.png" crc="3904699384" ref="jki-group--design---build--contact-us"/>
+    <file name="u2947-17-m.png" crc="423103148" ref="jki-group--design---build--contact-us"/>
+    <file name="u2947-17-fs.png" crc="104793920" ref="jki-group--design---build--contact-us"/>
+    <file name="a-master-favicon.ico" crc="4230660180" ref="jki-group--design---build--residential-projects--grove-park-gardens"/>
+    <file name="img_9259_edited-1.jpg" crc="163957909" ref="jki-group--design---build--residential-projects--grove-park-gardens"/>
+    <file name="img_9253_edited-1.jpg" crc="368336573" ref="jki-group--design---build--residential-projects--grove-park-gardens"/>
+    <file name="jki-group--design---build--residential-projects--hyde-park-favicon.ico" crc="4061180953" ref="jki-group--design---build--residential-projects--hyde-park"/>
+    <file name="hd queensway-36-edit.jpg" crc="190045251" ref="jki-group--design---build--residential-projects--hyde-park"/>
+    <file name="hd queensway-41.jpg" crc="4286572951" ref="jki-group--design---build--residential-projects--hyde-park"/>
+    <file name="hd queensway-27.jpg" crc="470961844" ref="jki-group--design---build--residential-projects--hyde-park"/>
+    <file name="hd queensway-42.jpg" crc="3766751901" ref="jki-group--design---build--residential-projects--hyde-park"/>
+    <file name="hd queensway-25.jpg" crc="16260529" ref="jki-group--design---build--residential-projects--hyde-park"/>
+    <file name="jki-group--design---build--commercial-projects--sugar-karaoke-club-favicon.ico" crc="185624560" ref="jki-group--design---build--commercial-projects--sugar-karaoke-club"/>
+    <file name="tn_photo 29.jpg" crc="4128093420" ref="jki-group--design---build--commercial-projects--sugar-karaoke-club"/>
+    <file name="tn_photo 26.jpg" crc="4038005113" ref="jki-group--design---build--commercial-projects--sugar-karaoke-club"/>
+    <file name="img_2741.jpg" crc="4123450262" ref="jki-group--design---build--commercial-projects--greenleaf-restaurant"/>
+    <file name="img_2735.jpg" crc="263021895" ref="jki-group--design---build--commercial-projects--greenleaf-restaurant"/>
+    <file name="img_2736.jpg" crc="209191256" ref="jki-group--design---build--commercial-projects--greenleaf-restaurant"/>
+    <file name="cbs-1544.jpg" crc="4252947059" ref="jki-group--design---build--commercial-projects--charlie"/>
+    <file name="cbs-1597.jpg" crc="3817529603" ref="jki-group--design---build--commercial-projects--charlie"/>
+    <file name="cbs-1487.jpg" crc="4088946444" ref="jki-group--design---build--commercial-projects--charlie"/>
+    <file name="jki-group--design---build---how-we-work-favicon.ico" crc="185624560" ref="jki-group--design---build---how-we-work"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4076325357" ref="phone>jkigroup-designandbuild-about-us:phone>jkigroup-designandbuild-how-we-work:phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant:phone>jkigroup-designandbuild-contact-us:phone>jkigroup-designandbuild-commercialprojects:phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club:phone>jkigroup-designandbuild-residentialprojects-montgomery-road:phone>jkigroup-designandbuild-commercialprojects-charlies:phone>jkigroup-designandbuild-residential-projects:phone>jkigroup-designandbuild-residentialprojects-groveparkgardens:phone>index:phone>jkigroup-designandbuild-residentialprojects-whitton-road"/>
+      <file name="jkigroup-designandbuild-about-us.css" crc="3927842791" ref="phone>jkigroup-designandbuild-about-us"/>
+      <file name="iefonts_jkigroup-designandbuild-about-us.css" crc="397052566" ref="phone>jkigroup-designandbuild-about-us"/>
+      <file name="jkigroup-designandbuild-how-we-work.css" crc="496086324" ref="phone>jkigroup-designandbuild-how-we-work"/>
+      <file name="iefonts_jkigroup-designandbuild-how-we-work.css" crc="333255823" ref="phone>jkigroup-designandbuild-how-we-work"/>
+      <file name="jkigroup-designandbuild-commercialprojects-greenleaf-restaurant.css" crc="431400439" ref="phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant"/>
+      <file name="iefonts_jkigroup-designandbuild-commercialprojects-greenleaf-restaurant.css" crc="3832479767" ref="phone>jkigroup-designandbuild-commercialprojects-greenleaf-restaurant"/>
+      <file name="jkigroup-designandbuild-contact-us.css" crc="258575717" ref="phone>jkigroup-designandbuild-contact-us"/>
+      <file name="iefonts_jkigroup-designandbuild-contact-us.css" crc="4265503816" ref="phone>jkigroup-designandbuild-contact-us"/>
+      <file name="jkigroup-designandbuild-commercialprojects.css" crc="386892919" ref="phone>jkigroup-designandbuild-commercialprojects"/>
+      <file name="iefonts_jkigroup-designandbuild-commercialprojects.css" crc="99260170" ref="phone>jkigroup-designandbuild-commercialprojects"/>
+      <file name="jkigroup-designandbuild-commercialprojects-sugar-karaoke-club.css" crc="4028263887" ref="phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club"/>
+      <file name="iefonts_jkigroup-designandbuild-commercialprojects-sugar-karaoke-club.css" crc="3842580919" ref="phone>jkigroup-designandbuild-commercialprojects-sugar-karaoke-club"/>
+      <file name="jkigroup-designandbuild-residentialprojects-montgomery-road.css" crc="3873387977" ref="phone>jkigroup-designandbuild-residentialprojects-montgomery-road"/>
+      <file name="iefonts_jkigroup-designandbuild-residentialprojects-montgomery-road.css" crc="323837930" ref="phone>jkigroup-designandbuild-residentialprojects-montgomery-road"/>
+      <file name="jkigroup-designandbuild-commercialprojects-charlies.css" crc="4028052047" ref="phone>jkigroup-designandbuild-commercialprojects-charlies"/>
+      <file name="iefonts_jkigroup-designandbuild-commercialprojects-charlies.css" crc="530763302" ref="phone>jkigroup-designandbuild-commercialprojects-charlies"/>
+      <file name="jkigroup-designandbuild-residential-projects.css" crc="219111235" ref="phone>jkigroup-designandbuild-residential-projects"/>
+      <file name="iefonts_jkigroup-designandbuild-residential-projects.css" crc="132486518" ref="phone>jkigroup-designandbuild-residential-projects"/>
+      <file name="jkigroup-designandbuild-residentialprojects-groveparkgardens.css" crc="50623043" ref="phone>jkigroup-designandbuild-residentialprojects-groveparkgardens"/>
+      <file name="iefonts_jkigroup-designandbuild-residentialprojects-groveparkgardens.css" crc="4208713847" ref="phone>jkigroup-designandbuild-residentialprojects-groveparkgardens"/>
+      <file name="index.css" crc="4141113104" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="485899955" ref="phone>index"/>
+      <file name="jkigroup-designandbuild-residentialprojects-whitton-road.css" crc="4138542921" ref="phone>jkigroup-designandbuild-residentialprojects-whitton-road"/>
+      <file name="iefonts_jkigroup-designandbuild-residentialprojects-whitton-road.css" crc="169405825" ref="phone>jkigroup-designandbuild-residentialprojects-whitton-road"/>
+    </folder>
+    <file name="index.html" crc="371438766" mt="1478970729412" redirect="true"/>
+    <file name="jkigroup-designandbuild-commercialprojects.html" crc="4039974512" mt="1478970784127" redirect="true"/>
+    <file name="jkigroup-designandbuild-commercialprojects-greenleaf-restaurant.html" crc="73943142" mt="1478970815135" redirect="true"/>
+    <file name="jkigroup-designandbuild-commercialprojects-sugar-karaoke-club.html" crc="56373681" mt="1478970801508" redirect="true"/>
+    <file name="jkigroup-designandbuild-commercialprojects-charlies.html" crc="3784632439" mt="1478970849054" redirect="true"/>
+    <file name="jkigroup-designandbuild-residential-projects.html" crc="3903991874" mt="1479246594871" redirect="true"/>
+    <file name="jkigroup-designandbuild-residentialprojects-groveparkgardens.html" crc="133765032" mt="1478970867112" redirect="true"/>
+    <file name="jkigroup-designandbuild-residentialprojects-montgomery-road.html" crc="398989428" mt="1478970888750" redirect="true"/>
+    <file name="jkigroup-designandbuild-residentialprojects-whitton-road.html" crc="4155476678" mt="1479246592582" redirect="true"/>
+    <file name="jkigroup-designandbuild-about-us.html" crc="159553990" mt="1478970939530" redirect="true"/>
+    <file name="jkigroup-designandbuild-how-we-work.html" crc="4086182076" mt="1478970952367" redirect="true"/>
+    <file name="jkigroup-designandbuild-contact-us.html" crc="4044791101" mt="1478970965614" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4124176719" mt="1458477077254" redirect="true"/>
+  <file name="jki-group--design---build--commercial-projects.html" crc="3951119654" mt="1458477077257" redirect="true"/>
+  <file name="jki-group--design---build--residential-projects.html" crc="29644921" mt="1479246594873" redirect="true"/>
+  <file name="jki-group--design---build---about-us.html" crc="119584394" mt="1458477077268" redirect="true"/>
+  <file name="jki-group--design---build--contact-us.html" crc="247875984" mt="1458477077276" redirect="true"/>
+  <file name="jki-group--design---build--residential-projects--grove-park-gardens.html" crc="225900650" mt="1458477077279" redirect="true"/>
+  <file name="jki-group--design---build--residential-projects--montgomery-road.html" crc="300908753" mt="1458477077282" redirect="true"/>
+  <file name="jki-group--design---build--residential-projects--hyde-park.html" crc="4117868319" mt="1479246592579" redirect="true"/>
+  <file name="jki-group--design---build--commercial-projects--sugar-karaoke-club.html" crc="4276637437" mt="1458477077292" redirect="true"/>
+  <file name="jki-group--design---build--commercial-projects--greenleaf-restaurant.html" crc="4150927919" mt="1458477077300" redirect="true"/>
+  <file name="jki-group--design---build--commercial-projects--charlie.html" crc="298319831" mt="1458477077304" redirect="true"/>
+  <file name="jki-group--design---build---how-we-work.html" crc="3930921929" mt="1458477077307" redirect="true"/>
+</manifest>
