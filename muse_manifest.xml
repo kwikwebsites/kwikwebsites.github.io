@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="emilyroseartist.co.uk" resolutions="1x" timestamp="1517161421377">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="emilyroseartist.co.uk" resolutions="1x" timestamp="1517162494731">
   <folder name="css">
     <file name="site_global.css" crc="450433366"/>
     <file name="master_a-master.css" crc="4075219138" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="39840961" ref="index"/>
-    <file name="nomq_index.css" crc="255085920" ref="index"/>
+    <file name="index.css" crc="190009428" ref="index"/>
+    <file name="nomq_index.css" crc="3881530378" ref="index"/>
     <file name="iefonts_index.css" crc="4226404660" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -91,8 +91,8 @@
     <file name="emily pic-crop-u6626.jpg" crc="90027498" ref="index"/>
     <file name="siblings, oil on canvas-crop-u13676.jpg" crc="3797927512" ref="index"/>
     <file name="libby, oil on canvas-crop-u9566.jpg" crc="3983050778" ref="index"/>
-    <file name="jaguar e-type, oil on canvas-crop-u9496.png" crc="393675234" ref="index"/>
     <file name="marmite, oil on canvas327x435.jpg" crc="4266995744" seo="true" ref="index"/>
+    <file name="jaguar e-type, oil on canvas-crop-u9496.png" crc="393675234" ref="index"/>
     <file name="happy couple, oil on canvas297x223.png" crc="199109222" seo="true" ref="index"/>
     <file name="moss portrait, oil on canvas-crop-u27896.jpg" crc="3840950954" ref="index"/>
     <file name="poppy, oil on canvas-crop-u13234.jpg" crc="227733081" ref="index"/>
@@ -106,8 +106,8 @@
     <file name="libby, oil on canvas-crop-u9567.jpg" crc="332641809" ref="index"/>
     <file name="jaguar e-type, oil on canvas-crop-u9497.png" crc="58896789" ref="index"/>
     <file name="marmite, oil on canvas324x432.jpg" crc="485702606" seo="true" ref="index"/>
-    <file name="happy couple, oil on canvas-crop-u942.png" crc="4288367136" ref="index"/>
-    <file name="moss portrait, oil on canvas-crop-u27897.jpg" crc="331434227" ref="index"/>
+    <file name="happy couple, oil on canvas304x229.png" crc="4217300370" seo="true" ref="index"/>
+    <file name="moss portrait, oil on canvas-crop-u27897.jpg" crc="132789371" ref="index"/>
     <file name="poppy, oil on canvas-crop-u13235.jpg" crc="4189537705" ref="index"/>
     <file name="vespa, oil on canvas308x410.jpg" crc="4230942277" seo="true" ref="index"/>
     <file name="couple by the sea, oil on canvas-crop-u9277.jpg" crc="489872728" ref="index"/>
@@ -115,5 +115,5 @@
     <file name="mr-mrs k, oil on canvas-crop-u13477.jpg" crc="3880432954" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4222527770" seo="true" mt="1517161381028" redirect="true"/>
+  <file name="index.html" crc="474427764" seo="true" mt="1517162428510" redirect="true"/>
 </manifest>
