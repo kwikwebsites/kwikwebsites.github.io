@@ -30,6 +30,9 @@ $form = array(
 		'from' => 'info@emilyroseartist.co.uk',
 		'to' => 'info@emilyroseartist.co.uk,bigonideas@yahoo.com'
 	),
+	'recaptcha2' => array(
+		'private_key' => '6Lf4lEUUAAAAAJ9SrGKDcWmK5bwo1GgyF0lxN-ay'
+	),
 	'fields' => array(
 		'custom_U1964' => array(
 			'order' => 1,
@@ -56,6 +59,16 @@ $form = array(
 			'label' => 'Message',
 			'required' => false,
 			'errors' => array(
+			)
+		),
+		'g-recaptcha-response' => array(
+			'order' => 4,
+			'type' => 'recaptcha2',
+			'label' => 'Image Verification',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Image Verification\' is required.',
+				'format' => 'Incorrect reCAPTCHA 2.0 value.'
 			)
 		)
 	)
