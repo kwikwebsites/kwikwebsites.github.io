@@ -28,7 +28,7 @@ $form = array(
 	),
 	'email' => array(
 		'from' => 'info@emilyroseartist.co.uk',
-		'to' => 'info@emilyroseartist.co.uk,bigonideas@yahoo.com'
+		'to' => 'info@emilyroseartist.co.uk,tom_goode@ymail.com'
 	),
 	'recaptcha2' => array(
 		'private_key' => '6Lf4lEUUAAAAAJ9SrGKDcWmK5bwo1GgyF0lxN-ay'
