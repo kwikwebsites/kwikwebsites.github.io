@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="emilyroseartist.co.uk" resolutions="1x" timestamp="1525616629072">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="emilyroseartist.co.uk" resolutions="1x" timestamp="1525619521763">
   <folder name="css">
     <file name="site_global.css" crc="4223403934"/>
     <file name="master_a-master.css" crc="4104240710" ref="index:chiswick-oil-painting-artist--portfolio"/>
@@ -6,8 +6,8 @@
     <file name="index.css" crc="4260477187" ref="index"/>
     <file name="nomq_index.css" crc="45544527" ref="index"/>
     <file name="iefonts_index.css" crc="459809844" ref="index"/>
-    <file name="chiswick-oil-painting-artist--portfolio.css" crc="358457189" ref="chiswick-oil-painting-artist--portfolio"/>
-    <file name="nomq_chiswick-oil-painting-artist--portfolio.css" crc="48321607" ref="chiswick-oil-painting-artist--portfolio"/>
+    <file name="chiswick-oil-painting-artist--portfolio.css" crc="4098653162" ref="chiswick-oil-painting-artist--portfolio"/>
+    <file name="nomq_chiswick-oil-painting-artist--portfolio.css" crc="3896533176" ref="chiswick-oil-painting-artist--portfolio"/>
     <file name="iefonts_chiswick-oil-painting-artist--portfolio.css" crc="459809844" ref="chiswick-oil-painting-artist--portfolio"/>
   </folder>
   <folder name="scripts">
@@ -44,7 +44,7 @@
     <file name="linked-in-logo.png" crc="395995052" seo="true" ref="index:chiswick-oil-painting-artist--portfolio"/>
     <file name="instagram-symbol.png" crc="4268366114" seo="true" ref="index:chiswick-oil-painting-artist--portfolio"/>
     <file name="emily rose artist_facebook-01.png" crc="126781866" seo="true" ref="index:chiswick-oil-painting-artist--portfolio"/>
-    <file name="wall of fame artwork-u500-fr.jpg" crc="483905739" ref="index:chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u500-fr.jpg" crc="483905739" ref="index"/>
     <file name="emily pic-crop-u6622.jpg" crc="4000612237" ref="index"/>
     <file name="siblings, oil on canvas_emily rose artist-crop-u13672.jpg" crc="12586014" ref="index"/>
     <file name="libby, oil on canvas_emily rose artist-crop-u9562.jpg" crc="31320093" ref="index"/>
@@ -65,7 +65,7 @@
     <file name="couple by the sea, oil on canvas_emily rose artist-crop-u9273.jpg" crc="374747312" ref="index"/>
     <file name="couple on holiday, oil on canvas_emily rose artist393x524.jpg" crc="3986585532" seo="true" ref="index"/>
     <file name="emily rose artist_facebook-01-crop-u216892.png" crc="233720412" ref="index"/>
-    <file name="wall of fame artwork-u500-fr2.jpg" crc="520465870" ref="index:chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u500-fr2.jpg" crc="520465870" ref="index"/>
     <file name="emily pic-crop-u6624.jpg" crc="280470020" ref="index"/>
     <file name="siblings, oil on canvas_emily rose artist-crop-u13674.jpg" crc="165955121" ref="index"/>
     <file name="happy couple, oil on canvas_emily rose artist288x216.png" crc="317350505" seo="true" ref="index"/>
@@ -79,7 +79,7 @@
     <file name="couple by the sea, oil on canvas_emily rose artist-crop-u9274.jpg" crc="4062006050" ref="index"/>
     <file name="couple on holiday, oil on canvas_emily rose artist291x387.jpg" crc="56271834" seo="true" ref="index"/>
     <file name="emily rose artist_facebook-01-crop-u216893.png" crc="513786155" ref="index"/>
-    <file name="wall of fame artwork-u500-fr3.jpg" crc="3898190940" ref="index:chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u500-fr3.jpg" crc="3898190940" ref="index"/>
     <file name="emily pic-crop-u6625.jpg" crc="90027498" ref="index"/>
     <file name="siblings, oil on canvas_emily rose artist-crop-u13675.jpg" crc="4002050314" ref="index"/>
     <file name="happy couple, oil on canvas_emily rose artist224x169.png" crc="270679708" seo="true" ref="index"/>
@@ -93,7 +93,7 @@
     <file name="jaguar e-type, oil on canvas_emily rose artist-crop-u9495.jpg" crc="4053930696" ref="index"/>
     <file name="couple on holiday, oil on canvas_emily rose artist217x289.jpg" crc="521070804" seo="true" ref="index"/>
     <file name="emily rose artist_facebook-01-crop-u216894.png" crc="513786155" ref="index"/>
-    <file name="wall of fame artwork-u500-fr4.jpg" crc="184245384" ref="index:chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u500-fr4.jpg" crc="184245384" ref="index"/>
     <file name="emily pic-crop-u6626.jpg" crc="90027498" ref="index"/>
     <file name="siblings, oil on canvas_emily rose artist-crop-u13676.jpg" crc="11335597" ref="index"/>
     <file name="libby, oil on canvas_emily rose artist-crop-u9566.jpg" crc="3804678636" ref="index"/>
@@ -165,9 +165,13 @@
     <file name="emily rose artist_facebook-01-crop-u259726.png" crc="3889713429" ref="chiswick-oil-painting-artist--portfolio"/>
     <file name="emily rose artist_facebook-01-crop-u259727.png" crc="153274951" ref="chiswick-oil-painting-artist--portfolio"/>
     <file name="emily rose artist_facebook-01-crop-u259728.png" crc="3831316391" ref="chiswick-oil-painting-artist--portfolio"/>
-    <file name="wall of fame artwork-u25929-fr.jpg" crc="403224526" ref="chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u25929-fr.jpg" crc="483905739" ref="chiswick-oil-painting-artist--portfolio"/>
     <file name="emily rose artist_facebook-01-crop-u259729.png" crc="3813283991" ref="chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u25929-fr2.jpg" crc="520465870" ref="chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u25929-fr3.jpg" crc="3898190940" ref="chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u25929-fr4.jpg" crc="184245384" ref="chiswick-oil-painting-artist--portfolio"/>
+    <file name="wall of fame artwork-u25929-fr5.jpg" crc="403224526" ref="chiswick-oil-painting-artist--portfolio"/>
   </folder>
   <file name="index.html" crc="4091376678" seo="true" mt="1525202505500" redirect="true"/>
-  <file name="chiswick-oil-painting-artist--portfolio.html" crc="21666346" seo="true" mt="1525616484058" redirect="true"/>
+  <file name="chiswick-oil-painting-artist--portfolio.html" crc="483915098" seo="true" mt="1525618581645" redirect="true"/>
 </manifest>
