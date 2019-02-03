@@ -8,13 +8,25 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/untitled-3.html</loc>
-    <lastmod>2019-01-29</lastmod>
+    <lastmod>2019-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bigonideas.co.uk/more-work.html</loc>
-    <lastmod>2018-12-15</lastmod>
+    <lastmod>2019-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/assets/close-icon-light.svg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/assets/white_icons8-menu-filled.svg</loc>
+    <lastmod>2019-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -85,12 +97,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/wonder%20women%20fitness%20group_a4%20poster-01287x402.jpg</loc>
-    <lastmod>2019-02-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://bigonideas.co.uk/assets/bigonideas_choose-this-package-button_a-01.png</loc>
     <lastmod>2018-12-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -99,6 +105,12 @@
   <url>
     <loc>http://bigonideas.co.uk/assets/going-gardens---project-2017-6pp-a4.pdf</loc>
     <lastmod>2015-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/going%20gardens%20-%20project%202017%206pp%20a4_page_2422x208.jpg</loc>
+    <lastmod>2019-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -181,13 +193,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/macbook-pro341x207.png</loc>
+    <loc>http://bigonideas.co.uk/images/wonder%20women%20fitness%20group_a4%20poster-01287x402.jpg</loc>
     <lastmod>2019-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/going%20gardens%20-%20project%202017%206pp%20a4_page_2422x208.jpg</loc>
+    <loc>http://bigonideas.co.uk/images/macbook-pro341x207.png</loc>
     <lastmod>2019-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
